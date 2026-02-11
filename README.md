@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/python-3.12+-orange?logo=python&logoColor=white) 
 ![NixOS](https://img.shields.io/badge/NixOS-blue?logo=nixos&logoColor=white&color=5277C3)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white)
-![Version](https://img.shields.io/badge/version-0.1--alpha-blue)
+![Version](https://img.shields.io/badge/version-1.2-brightgreen)
 [![License: GPL v3](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ![Last Commit](https://img.shields.io/github/last-commit/neko-nix/repo-plantilla)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/neko-nix/repo-plantilla)
@@ -12,7 +12,7 @@
 Este es un repositorio plantilla principalmente (pero no exlusivo) para projectos de Python, utilizando Nix Flakes para garantizar un entorno de desarrollo reproducible y consistente, sin tener que depender de documentos como `requierements.txt` que funcionan cuando quieren.
 
 ## ✅ Funciones actuales:
-- [x] 
+- [x]
 - [x]
 ## 🛠️ Funciones en progreso:
 - [ ]
