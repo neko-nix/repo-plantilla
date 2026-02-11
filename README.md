@@ -1,4 +1,4 @@
-# Nombre repo
+# 🐱 Repositorio Plantilla con Nix Flakes
 
 ![Python](https://img.shields.io/badge/python-3.12+-orange?logo=python&logoColor=white) 
 ![NixOS](https://img.shields.io/badge/NixOS-blue?logo=nixos&logoColor=white&color=5277C3)
@@ -9,22 +9,28 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/neko-nix/repo-plantilla)
 ![GitHub issues](https://img.shields.io/github/issues/neko-nix/repo-plantilla?color=informational)
 
+Este es un repositorio plantilla principalmente (pero no exlusivo) para projectos de Python, utilizando Nix Flakes para garantizar un entorno de desarrollo reproducible y consistente, sin tener que depender de documentos como `requierements.txt` que funcionan cuando quieren.
 
-[DESCRIPCIÓN GENERAL REPO]
-
-## Funciones actuales
+## ✅ Funciones actuales:
+- [x] 
 - [x]
-- [x]
-## Funciones planeadas
+## 🛠️ Funciones en progreso:
 - [ ]
 - [ ]
-## Entorno en NixOS
-Para activar el entorno de desarrollo, descargando e instalando todas sus dependencias, se requiere utilizar NixOS, y ejecutar el siguiente comando estando en el directorio del proyecto:
+## ⏳ Funciones planeadas:
+- [ ]
+- [ ] 
+
+## 🧾 Changelog
+La lista completa de cambios se encuentra en [CHANGELOG](CHANGELOG.md).
+
+## ❄️ Entorno en Nix
+Para activar el entorno de desarrollo, se requiere tener Nix instalado con soporte para Flakes. Dentro del directorio del proyecto, ejecturar el siguiente comando:"
 ```sh
 nix develop
 ```
 
-## Estructura del proyecto:
+## 🌳 Estructura del proyecto:
 ```text
 ├── data                # Bases de datos
 ├── scripts             # Scripts sueltos que hagan cosas puntuales fuera de la aplicación en si misma
@@ -35,5 +41,5 @@ nix develop
 └── tests               # Espejo del `src` para hacer pruebas
 ```
 
-## Licencia
+## ⚖️ Licencia
 Este proyecto está bajo la licencia GNU GENERAL PUBLIC LICENSE V3. Consulta el archivo [LICENSE](LICENSE) para más detalles.
