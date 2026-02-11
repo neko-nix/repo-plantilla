@@ -5,17 +5,19 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white)
 ![Version](https://img.shields.io/badge/version-0.1--alpha-blue)
 [![License: GPL v3](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-![Last Commit](https://img.shields.io/github/last-commit/neko-nix/nombre-repo)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/neko-nix/nombre-repo)
-![GitHub issues](https://img.shields.io/github/issues/neko-nix/nombre-repo?color=informational)
+![Last Commit](https://img.shields.io/github/last-commit/neko-nix/repo-plantilla)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/neko-nix/repo-plantilla)
+![GitHub issues](https://img.shields.io/github/issues/neko-nix/repo-plantilla?color=informational)
 
 
 [DESCRIPCIÓN GENERAL REPO]
 
 ## Funciones actuales
-
+- [x]
+- [x]
 ## Funciones planeadas
-
+- [ ]
+- [ ]
 ## Entorno en NixOS
 Para activar el entorno de desarrollo, descargando e instalando todas sus dependencias, se requiere utilizar NixOS, y ejecutar el siguiente comando estando en el directorio del proyecto:
 ```sh
